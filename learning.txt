@@ -1,1 +1,2 @@
+"What I have learned from this course"
 i have learnt many things some which include using directrories an i have also and also how to navigate through this GitHub and also known how to clone directories and file i have learnt how to fork files from GitHub and also how to update my redme files and also how to commit changes from git and github
